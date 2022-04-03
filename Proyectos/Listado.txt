@@ -1,0 +1,3 @@
+1- Crear pagina
+2- Ver clases
+3- Git carpetas con inf.
